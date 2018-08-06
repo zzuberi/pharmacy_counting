@@ -16,4 +16,4 @@ The following dependencies are used and must be installed for this code to run:
   2. csv
   
 # Note
-The instructions did not specify if decimal format was required for the total_cost field. In order to pass the test, if the final total_cost value is an integer it will be printed as such. If the total_cost value is a decimal number it will be printed with two decimal points.
+The instructions did not specify if decimal format was required for the total_cost field. In order to pass the test, if the final total_cost value is an integer it will be printed as an integer wihtout decimal points. If the total_cost value is a decimal number it will be printed with two decimal points.
