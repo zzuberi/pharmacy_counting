@@ -8,7 +8,7 @@ This code can be executed by running run.sh. The input file should be placed in 
 
     python ./src/pharmacy-counting.py ./input/<input_file> ./output/<output_file>
       
-By default the input file is "itcont.txt" and the output file is "top-cost-drug.txt." The output file will be generated in the .output/ folder.
+By default the input file is "itcont.txt" and the output file is "top-cost-drug.txt." The output file will be generated in the ./output/ folder.
 
 # Dependencies
 The following dependencies are used and must be installed for this code to run:
